@@ -44,7 +44,7 @@ const MainPage: FC = () => {
   return (
     <div className={styles.wrapper}>
       <nav className={styles.nav}>
-        <p className={styles.preview}>Язык жестов — легко и увлекательно! Пройди квизы и узнай больше.</p>
+        <p className={styles.preview}>Язык жестов ещкере — легко и увлекательно! Пройди квизы и узнай больше.</p>
         <div className={styles.quizHeadButtons}>
           <img style={{ width: 'calc((1vh + 1vw) * 4)' }} src={hello} alt="" />
         </div>
